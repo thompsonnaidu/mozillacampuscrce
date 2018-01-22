@@ -225,7 +225,7 @@ h3 {
  *  
  */
 .header-background {
-  background: url('../../../../all-file/images/main.jpg') top center fixed;
+  background: url('../images/main.jpg') top center fixed;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -475,7 +475,7 @@ h3 {
   overflow: hidden;
 }
 .about-background-image .background-right {
-  background-image: url('../../../../all-file/images/event.jpg');
+  background-image: url('../images/event.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   padding-left: 0;
@@ -521,7 +521,7 @@ h3 {
  *  
  */
 .scedule-background {
-  background: url('../../../../all-file/images/bg3.jpg') top center fixed;
+  background: url('../images/bg3.jpg') top center fixed;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -696,7 +696,7 @@ h3 {
  * 
  */
 .register-background {
-  background: url('../../../../all-file/images/bg-4.jpg') top center fixed;
+  background: url('../images/bg-4.jpg') top center fixed;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -956,7 +956,7 @@ h3 {
  *  
  */
 .twitter-background {
-  background: url('../../../../all-file/images/bg-3.jpg') top center fixed;
+  background: url('../images/bg-3.jpg') top center fixed;
   background-size: cover;
   background-repeat: no-repeat;
 }
